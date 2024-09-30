@@ -330,28 +330,6 @@ main .forfait .container .note a {
     margin-right: 20px;
 }
 
-.question_3 {
-    display: none;
-    margin-top: 10px;
-    font-size: 16px;
-    line-height: 1.6;
-}
-
-.menu-deroulant .question_3 p,
-li {
-    margin-left: 20px;
-    color: #888;
-    font-size: 15px;
-}
-
-.question_1.active .question_3 {
-    display: block;
-}
-
-.question_3 a {
-    color: white;
-}
-
 .presentation3 {
     color: white;
     margin-top: 35px;
